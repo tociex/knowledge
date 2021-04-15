@@ -1,8 +1,11 @@
 # Knowledge Test
-1. First of all, import the SQL file into the database.
 
-2. Go to the database.php file in application/config and update the database settings accordingly to your settings.
+Dibuat untuk kebutuhan menyelesaikan tahap knowledge test
 
-3. Go to yoursite/admin, login with username: "administrator" and password: "password".
+1. import databse SQL dalam folder db ke database.
 
-===== Terimakasih ======
+2. buka file dalam folder application->config->database.php setting koneksi database sesuai dengan database yang dibuat.
+
+3. buka yoursite/admin, login dengan username: "administrator" and password: "password".
+
+===== Terimakasih @tociex ======
